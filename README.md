@@ -2,9 +2,9 @@
 
 ### Predicting air quality index (AQI) values
 
-- The purpose of this project was to be able to predict the overall air quality index value.
-  The AQI value provides daily air quality conditions.
+- The purpose of this project was to be able to predict the overall air quality index value using different models.
 
+- The AQI value provides daily air quality conditions.
 
 - The dataset that was used in this project is the Global Air Pollution Dataset created by Hasib Al   
   Muzdadid. The dataset contains AQI values and values of different pollutants for multiple 
